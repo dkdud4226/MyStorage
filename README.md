@@ -1,1 +1,1 @@
-# MyStorage
+System.out.println("Hello World");
